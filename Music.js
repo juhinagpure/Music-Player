@@ -9,7 +9,7 @@ let artist = document.getElementById("artist");
 let songs = [
   {
     name: "Alone",
-    title: "",
+    title: "Alone",
     artist: "Alan Walker",
   },
   {
